@@ -1,0 +1,18 @@
+h2 {
+	color: red;
+}
+
+img {
+	border: black solid 1px;
+}
+
+p {
+	margin-left: 25px;
+}
+
+h1 {
+	background-color: grey;
+	display: block;
+	width: 170px;
+	padding-left: 10px;
+}
